@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+     <modules>
+        <CybALM_HelloWorld>
+            <active>true</active>
+            <codePool>local</codePool>
+        </CybALM_HelloWorld>
+     </modules>
+</config>
